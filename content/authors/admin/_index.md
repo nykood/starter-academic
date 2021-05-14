@@ -6,7 +6,7 @@ title: Nicolae Done
 superuser: true
 
 # Role/position/tagline
-role: Associate
+role: Health Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,22 +18,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Health Economics
+- Statistics and Data Science
+- 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Health Economics and Policy
+    institution: Johns Hopkins University
+    year: 2017
+  - course: AB in Biochemical Sciences
+    institution: Harvard College
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
