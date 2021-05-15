@@ -42,6 +42,10 @@ contact_links:
     icon_pack: fab
     name: Skype
     link: 'skype:nykood'
+  - icon: facebook
+    icon_pack: fab
+    name: Facebook
+    link: https://facebook.com/nicolaedone
 
 # Site header
 
