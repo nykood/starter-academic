@@ -39,4 +39,4 @@ categories:
 
 ---
 
-At the end of May I presented my work comparing the effectiveness of direct oral anticoagulants at the ISPOR meeting. This year the conference was even bigger and better. I was definitely impressed with the huge reach of the conference, both geographically and in terms of topics covered.
+At the end of May I presented my work comparing the effectiveness of direct oral anticoagulants at the ISPOR meeting. This year the conference was even bigger and better. I was really impressed with the huge reach of the conference, both geographically and in terms of topics covered.

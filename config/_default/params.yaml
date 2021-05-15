@@ -130,7 +130,7 @@ search:
     show_logo: false
 map:
   provider: '3'
-  api_key: ''
+  api_key: 'pk.eyJ1Ijoibnlrb29kIiwiYSI6ImNrb250cW5naTA0NXozMW1wcTIzbXl2cHUifQ.NgWod3KoAyH8mrQTLLLKuw'
   zoom: 15
 marketing:
   google_analytics: ''
