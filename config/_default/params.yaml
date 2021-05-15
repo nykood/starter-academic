@@ -65,9 +65,9 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
-privacy_pack: false
+math: true
+diagram: true
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
@@ -129,7 +129,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '3'
+  provider: 'mapbox'
   api_key: 'pk.eyJ1Ijoibnlrb29kIiwiYSI6ImNrb250cW5naTA0NXozMW1wcTIzbXl2cHUifQ.NgWod3KoAyH8mrQTLLLKuw'
   zoom: 15
 marketing:
