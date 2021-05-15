@@ -33,12 +33,12 @@ publication_types: ["2"]
 publication: In *Health Services Research*
 publication_short: In *HSR*
 
-abstract: **Objective:** To characterize the rate of guideline-concordant initiation of oral antico-agulation  (OAC)  among  elderly  Veterans  with  atrial  fibrillation (AF)  and  high  stroke  risk.  
+abstract: "**Objective:** To characterize the rate of guideline-concordant initiation of oral antico-agulation  (OAC)  among  elderly  Veterans  with  atrial  fibrillation (AF)  and  high  stroke  risk.  
 **Data Sources/Study Setting:** Veterans Health Administration (VHA) Corporate Data Warehouse (CDW) linked with Medicare claims 2011-2015.  
 **Study Design:** We identified 6,619 elderly, high stroke-risk patients with a new episode  of  AF  initially  diagnosed  in  the  VHA  during  fiscal  years  2012-2015. We  used  logistic regression to estimate marginal effects of associations between patient char-acteristics and OAC initiation within 90 days of the first AF episode.  
 **Data Extraction Methods:** We identified OACs using generic drug names. We calculated  comorbidities  and  risk  scores  using  diagnosis  codes  from  1 year  of  baseline  data.  
 **Principal Findings:** Overall, 66.5% of Medicare-eligible Veterans with AF at high risk of  stroke  initiated  an  OAC  within  90 days. We  found lower initiation  rates for  patients enrolled in Medicare Part D and those ineligible for drug co-payment subsidies. OAC initiation rates increased during the study among VHA-reliant patients but not among dual VHA-Part D enrollees.  
-**Conclusions:** One-third of elderly Veterans at risk of stroke are not receiving recommended therapy. Increased coordination between Medicare and VHA providers may lead to improvements in anticoagulation quality and stroke prevention.
+**Conclusions:** One-third of elderly Veterans at risk of stroke are not receiving recommended therapy. Increased coordination between Medicare and VHA providers may lead to improvements in anticoagulation quality and stroke prevention."
 
 # Summary. An optional shortened abstract.
 summary: Using data from the VHA linked to Medicare claims, this study analyzed the rate to which Veterans at high risk of stroke received recommended anticoagulation therapy, finding suboptimal rates of guideline-concordant prescribing. Increased coordination between Medicare and Veterans Health Administration providers may improve stroke prevention.
