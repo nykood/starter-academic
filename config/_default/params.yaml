@@ -22,6 +22,17 @@ twitter: ''
 
 email: Nicolae.Done@analysisgroup.com
 phone: (617) 422-2613
+address:
+  street: 111 Huntington Avenue, 14th Floor
+  city: Boston
+  region: MA
+  postcode: '02199'
+  country: United States
+  country_code: US
+coordinates:
+  latitude: '42.34661219904629'
+  longitude: '-71.08170939383452'
+directions: Register at reception to access elevators to 14th floor
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -117,17 +128,6 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-address:
-  street: 111 Huntington Avenue, 14th Floor
-  city: Boston
-  region: MA
-  postcode: '02199'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '42.34661219904629'
-  longitude: '-71.08170939383452'
-directions: Register at reception to access elevators to 14th floor
 map:
   provider: 'mapbox'
   api_key: 'pk.eyJ1Ijoibnlrb29kIiwiYSI6ImNrb250cW5naTA0NXozMW1wcTIzbXl2cHUifQ.NgWod3KoAyH8mrQTLLLKuw'
