@@ -40,9 +40,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/nykood
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=Cva1wiEAAAAJ
@@ -55,6 +52,12 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/NicolaeDone
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/nykood
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/nykood  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `media/resume.pdf`, enable `ai` icons in `params.toml`, 
