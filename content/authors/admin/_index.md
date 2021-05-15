@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: media/resume.pdf
+   link: /resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "Nicolae.Done@analysisgroup.com"
@@ -69,4 +69,4 @@ highlight_name: false
 
 I am currently a full-time consultant at Analysis Group, Inc. My research areas include health economics and outcomes research, cost-effectiveness analysis, and health services research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
