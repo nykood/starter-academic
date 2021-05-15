@@ -54,11 +54,11 @@ social:
   link: https://www.linkedin.com/in/NicolaeDone
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
  - icon: cv
-   icon_pack: fab
-   link: static/media/resume.pdf
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "Nicolae.Done@analysisgroup.com"
@@ -69,4 +69,4 @@ highlight_name: false
 
 I am currently a full-time consultant at Analysis Group, Inc. My research areas include health economics and outcomes research, cost-effectiveness analysis, and health services research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
